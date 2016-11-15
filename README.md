@@ -8,3 +8,10 @@ A suite of SoundFonts for your upcoming MIDI project
 * GeneralUser by s_chriscollins@hotmail.com,
 
 * Unison by Peter Jevnisek 
+
+---
+
+## Other free links
+
+* [FreePats 2.0](http://freepats.zenvoid.org/)
+* [Musescore List](https://musescore.org/en/node/36171#list)
